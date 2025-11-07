@@ -1,0 +1,7 @@
+{
+  "name": "DocuSage AI",
+  "description": "An intelligent document analysis application that allows users to upload, analyze, and query PDFs and websites. It provides citation-backed answers, summarization, and contextual chat in a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

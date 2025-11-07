@@ -1,0 +1,4 @@
+1.in the register page after we registered an account even after going to login page its still showing in the register page.
+2.after uploading a document its keep on repeating as the document count and storage is keep on increasing
+3.Preview PDF preview not available in this version
+first rectify these issues
